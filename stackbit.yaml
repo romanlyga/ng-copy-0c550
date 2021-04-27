@@ -303,11 +303,11 @@ models:
         name: section_id
         label: Section ID
       - type: boolean
-        name: light_title
-        label: Light title
-      - type: boolean
         name: icon
         label: Show Heart Icon
+      - type: boolean
+        name: light_title
+        label: Light title
       - type: list
         name: featured_products
         label: Featured Products
