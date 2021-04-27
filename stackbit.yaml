@@ -609,9 +609,3 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  t1111:
-    type: page
-    label: t1111
-    layout: t1111
-    singleInstance: true
-    file: ''
