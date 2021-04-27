@@ -303,9 +303,8 @@ models:
         name: featured_products
         label: Featured Products
         items:
-          type: reference
-          models:
-            - product
+          type: enum
+          options: []
       - type: string
         name: section_id
         label: Section ID
@@ -595,4 +594,6 @@ models:
               label: Key Name
             - type: boolean
               name: relativeUrl
+              label: Relative Url
+elativeUrl
               label: Relative Url
