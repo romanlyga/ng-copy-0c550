@@ -236,18 +236,7 @@ models:
         label: Sections
         description: Page sections
         items:
-          type: model
-          models:
-            - hero_section
-            - header_section
-            - featured_products_section
-            - featured_categories_section
-            - testimonials_section
-            - promotion_section
-            - store_section
-            - faq_section
-            - bulletpoints_section
-            - contact_section
+          type: datetime
       - type: model
         name: seo
         models:
