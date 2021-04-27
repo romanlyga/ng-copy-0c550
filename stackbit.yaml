@@ -310,6 +310,7 @@ models:
             - header_section
             - faq_section
             - hero_section
+            - action
       - type: string
         name: section_id
         label: Section ID
