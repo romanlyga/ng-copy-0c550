@@ -305,9 +305,7 @@ models:
         items:
           type: model
           models:
-            - faq_section
-            - featured_products_section
-            - stackbit_page_meta
+            - bulletpoints_section
       - type: string
         name: section_id
         label: Section ID
