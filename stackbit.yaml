@@ -299,6 +299,13 @@ models:
       - type: string
         name: title
         label: Title
+      - type: list
+        name: featured_products
+        label: Featured Products
+        items:
+          type: reference
+          models:
+            - product
       - type: string
         name: section_id
         label: Section ID
@@ -308,13 +315,6 @@ models:
       - type: boolean
         name: light_title
         label: Light title
-      - type: list
-        name: featured_products
-        label: Featured Products
-        items:
-          type: reference
-          models:
-            - product
   featured_categories_section:
     type: object
     label: Categories Section
