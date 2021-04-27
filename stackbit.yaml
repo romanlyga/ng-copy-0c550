@@ -609,6 +609,3 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  t1111:
-    type: config
-    label: t1111
