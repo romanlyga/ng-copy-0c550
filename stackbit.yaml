@@ -613,5 +613,4 @@ models:
     type: page
     label: newmodel
     layout: newmodel
-    singleInstance: true
-    file: ''
+    folder: ''
