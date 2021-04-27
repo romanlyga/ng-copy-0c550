@@ -305,10 +305,7 @@ models:
         items:
           type: enum
           options:
-            - label: ''
-              value: ''
-            - label: ''
-              value: ''
+            - ''
       - type: string
         name: section_id
         label: Section ID
