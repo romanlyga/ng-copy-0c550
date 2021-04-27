@@ -304,7 +304,8 @@ models:
         label: Featured Products
         items:
           type: model
-          models: []
+          models:
+            - faq_section
       - type: string
         name: section_id
         label: Section ID
