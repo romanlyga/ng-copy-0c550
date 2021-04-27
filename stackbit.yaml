@@ -307,9 +307,10 @@ models:
         label: Featured Products
         items:
           type: string
-      - type: boolean
+      - type: reference
         name: icon
         label: Show Heart Icon
+        models: []
       - name: name
         type: color
         label: label
