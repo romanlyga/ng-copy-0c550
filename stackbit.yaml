@@ -236,7 +236,8 @@ models:
         label: Sections
         description: Page sections
         items:
-          type: color
+          type: model
+          models: []
       - type: model
         name: seo
         models:
