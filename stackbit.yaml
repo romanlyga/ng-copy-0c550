@@ -306,6 +306,8 @@ models:
           type: model
           models:
             - bulletpoints_section
+            - contact_section
+            - header_section
       - type: string
         name: section_id
         label: Section ID
