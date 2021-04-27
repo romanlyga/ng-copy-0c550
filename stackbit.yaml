@@ -312,7 +312,7 @@ models:
       - type: boolean
         name: icon
         label: Show Heart Icon
-      - name: ''
+      - name: name
         type: color
         label: label
       - type: boolean
