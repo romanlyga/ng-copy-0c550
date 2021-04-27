@@ -306,7 +306,8 @@ models:
         name: featured_products
         label: Featured Products
         items:
-          type: string
+          type: enum
+          options: []
       - type: reference
         name: icon
         label: Show Heart Icon
