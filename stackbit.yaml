@@ -313,7 +313,7 @@ models:
         name: icon
         label: Show Heart Icon
       - name: ''
-        type: string
+        type: color
       - type: boolean
         name: light_title
         label: Light title
