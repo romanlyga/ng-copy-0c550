@@ -306,10 +306,7 @@ models:
         name: featured_products
         label: Featured Products
         items:
-          type: enum
-          options:
-            - label: ''
-              value: ''
+          type: color
       - type: boolean
         name: icon
         label: Show Heart Icon
