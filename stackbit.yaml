@@ -609,8 +609,3 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  newmodel:
-    type: page
-    label: newmodel
-    layout: newmodel
-    folder: ''
