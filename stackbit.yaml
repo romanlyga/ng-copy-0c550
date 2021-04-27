@@ -308,6 +308,8 @@ models:
             - bulletpoints_section
             - contact_section
             - header_section
+            - faq_section
+            - hero_section
       - type: string
         name: section_id
         label: Section ID
