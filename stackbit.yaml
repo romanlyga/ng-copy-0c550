@@ -312,11 +312,11 @@ models:
       - type: boolean
         name: icon
         label: Show Heart Icon
+      - name: ''
+        type: string
       - type: boolean
         name: light_title
         label: Light title
-      - name: ''
-        type: string
   featured_categories_section:
     type: object
     label: Categories Section
