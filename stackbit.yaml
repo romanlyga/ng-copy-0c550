@@ -341,10 +341,6 @@ models:
           type: reference
           models:
             - category
-  store_section:
-    type: object
-    label: Store Section
-    fields: []
   promotion_section:
     type: object
     label: Promotion
