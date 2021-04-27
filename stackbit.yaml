@@ -236,7 +236,7 @@ models:
         label: Sections
         description: Page sections
         items:
-          type: datetime
+          type: color
       - type: model
         name: seo
         models:
