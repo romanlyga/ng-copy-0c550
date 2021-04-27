@@ -3,7 +3,7 @@ title: Store
 layout: store
 sections:
   - type: store_section
-    section_id: store_section
+    section_id: faq_section
   - type: featured_products_section
     section_id: featured_products_section
     title: Best sellers
