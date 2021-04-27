@@ -613,3 +613,4 @@ models:
     type: page
     label: newmodel
     layout: newmodel
+    folder: sdsdf
