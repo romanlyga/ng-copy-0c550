@@ -613,4 +613,5 @@ models:
     type: page
     label: newmodel
     layout: newmodel
-    folder: sdsdf
+    singleInstance: true
+    file: ''
