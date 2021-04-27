@@ -2,7 +2,7 @@
 title: Store
 layout: store
 sections:
-  - type: store_section
+  - type: faq_section
     section_id: faq_section
   - type: featured_products_section
     section_id: featured_products_section
