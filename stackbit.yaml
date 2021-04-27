@@ -302,12 +302,11 @@ models:
       - type: string
         name: section_id
         label: Section ID
-      - type: enum
+      - type: list
         name: featured_products
         label: Featured Products
-        options:
-          - label: ''
-            value: ''
+        items:
+          type: string
       - type: boolean
         name: icon
         label: Show Heart Icon
