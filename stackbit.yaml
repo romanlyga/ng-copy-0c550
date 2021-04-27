@@ -314,6 +314,7 @@ models:
         label: Show Heart Icon
       - name: ''
         type: color
+        label: label
       - type: boolean
         name: light_title
         label: Light title
