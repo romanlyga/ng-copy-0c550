@@ -237,7 +237,8 @@ models:
         description: Page sections
         items:
           type: model
-          models: []
+          models:
+            - featured_categories_section
       - type: model
         name: seo
         models:
